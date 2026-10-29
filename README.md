@@ -59,7 +59,6 @@ Expected Graduation: **2029**
 **Diploma in Computer Engineering**  
 Darshan University  
 2023-2026
-
 **First Class with Distinction**
 
 ---
